@@ -3,6 +3,5 @@ dist
 .env
 .DS_Store
 VoC-Insight-Engine-bundle.txt
-public
 .vercel
 .env.local
