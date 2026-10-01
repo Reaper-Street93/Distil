@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "express",
+  "buildCommand": "vite build && cp -r dist public",
+  "regions": ["lhr1"]
+}
