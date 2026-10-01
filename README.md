@@ -8,6 +8,10 @@ roughly how often each shows up, a real customer quote, and a suggested action
 Think of a research assistant who reads 500 reviews overnight and hands you a
 single page saying *"here are the five things that matter, in order."*
 
+**Live: [distil-mu.vercel.app](https://distil-mu.vercel.app)** — hit *Try it
+with sample data*, then *Analyse feedback*, and a real report comes back in about 15
+seconds.
+
 ## What it does
 
 - **Paste or import** — type into the box, or upload / drop a `.csv` or
