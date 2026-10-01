@@ -5,3 +5,4 @@ dist
 VoC-Insight-Engine-bundle.txt
 public
 .vercel
+.env.local
