@@ -1,4 +1,4 @@
-# Voice-of-Customer Insight Engine
+# Distil
 
 Paste a pile of customer reviews, support tickets or survey responses and get
 back a one-page insights report: the top themes, the sentiment behind each,
